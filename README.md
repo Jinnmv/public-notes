@@ -1,1 +1,2 @@
-# public-notes
+# Anton's Public Notes
+[Wishlist](wishlist)
