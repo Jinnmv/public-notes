@@ -30,7 +30,7 @@ icon: RiShoppingBag3Line
 - `1 190 грн` [cosmic.com.ua](https://cosmic.com.ua/ru/diablo_kniga_kaina/)
 - `1 150 грн` [onthebus.com.ua](https://www.onthebus.com.ua/artbuki-entsiklopedii/diablo-kniga-kaina/)
 
-![Diablo III. Книга Каина](https://cosmic.com.ua/content/images/25/930x1246l80br0/diablo_kniga_kaina-80666232287435.webp)
+![Diablo III. Книга Каина|350](https://cosmic.com.ua/content/images/25/930x1246l80br0/diablo_kniga_kaina-80666232287435.webp)
 
 ### Світ гри “Diablo”
 1 100 грн https://www.ideo-grafika.com/product/svit-hry-diablo/
@@ -54,20 +54,20 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 
 Графічний роман “Воля. ТОМ 3”
 
-![Графічний роман “Воля. ТОМ 3”](https://thewill.com.ua/Media/volya-comics/%D1%82%D0%BE%D0%B2%D0%B0%D1%80_%D0%923.jpg)
+![Графічний роман “Воля. ТОМ 3”|350](https://thewill.com.ua/Media/volya-comics/%D1%82%D0%BE%D0%B2%D0%B0%D1%80_%D0%923.jpg)
 
 ### Комікс "КіберКрай" VHS-Обкладинка
 
 - `340 грн` [thewill.com.ua](https://thewill.com.ua/catalog/komiks-kiberkray-vhs-obkladinka/)
 
-![КіберКрай](https://thewill.com.ua/Media/volya-comics/vhs_zibrov.jpg)
+![КіберКрай|350](https://thewill.com.ua/Media/volya-comics/vhs_zibrov.jpg)
 
 ### Комікс "13-й Курінь"
 
 - `300 грн` https://thewill.com.ua/catalog/komik/
 - `310 грн` https://www.ideo-grafika.com/product/13j-kurin/
 
-![](https://thewill.com.ua/Media/volya-comics/TOWARR212342.jpg)
+![|350](https://thewill.com.ua/Media/volya-comics/TOWARR212342.jpg)
 
 ### Кобзар. Легенди Великого Лугу
 
@@ -76,7 +76,7 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 - `70 грн` https://www.ideo-grafika.com/product/kobzar-1/
 - `70 грн` https://cosmic.com.ua/kobzar_legendi_velikogo_lugu/
 
-![](https://www.ideo-grafika.com/wp-content/uploads/2019/05/Kobzar-1-cover.jpg)
+![|350](https://www.ideo-grafika.com/wp-content/uploads/2019/05/Kobzar-1-cover.jpg)
 
 ### Максим Оса
 
@@ -95,15 +95,15 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 
 3 200 https://www.aviatsiyahalychyny.com/men/jeans/hutsulshchyna/
 
-![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3238.jpg)
+![|350](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3238.jpg)
 
-![|350](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3396.jpg)
+![|250](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3396.jpg)
 
 ### **Авіація Галичини** Чоловіча сорочка-піджак MISSION MARIUPOL
 
 - 3 100 грн https://www.aviatsiyahalychyny.com/men/shirts/mission-mariupol/?attribute_pa_color=black&attribute_pa_size=m
 
-![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2022/10/848a4168_optimized-scaled.jpg)
+![|450](https://www.aviatsiyahalychyny.com/wp-content/uploads/2022/10/848a4168_optimized-scaled.jpg)
 
 
 ## Годиники
@@ -116,7 +116,7 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 
 > Колекція HVILINA NARBUT присвячена таланту та спадщині відомого українського графічного дизайнера двадцятого століття - Георгію Нарбуту.
 
-![HVILINA NARBUT CARBON BLACK](https://static.insalescdn.com/images/products/1/4459/416567659/1.png)
+![HVILINA NARBUT CARBON BLACK|350](https://static.insalescdn.com/images/products/1/4459/416567659/1.png)
 
 
 
@@ -127,7 +127,7 @@ Knipex cobra
 
 - `7 200 грн` https://ibis.net.ua/ua/products/details/multitul-leatherman-832692-signal-green-topo-sintetchehol/
 
-![](https://ibis.net.ua/static/products_pictures/b/7/8/multitul-leatherman-832692-signal-green-topo.webp)
+![|350](https://ibis.net.ua/static/products_pictures/b/7/8/multitul-leatherman-832692-signal-green-topo.webp)
 
 ### Ніж **Spyderco** Delica4 Flat Ground Green
 
