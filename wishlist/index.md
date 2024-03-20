@@ -26,7 +26,7 @@ icon: RiShoppingBag2Line
 
 ![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3238.jpg)
 
-![|350](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3396.jpg)
+![\|350](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3396.jpg)
 
 ### ✓ Сорочка-піджак MISSION MARIUPOL **Авіація Галичини**
 
