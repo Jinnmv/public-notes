@@ -4,7 +4,6 @@ path: wishlist
 title: index
 icon: RiShoppingBag2Line
 ---
-
 # Wishlist
 ## Одяг
 
@@ -21,8 +20,26 @@ icon: RiShoppingBag2Line
 
 ![Футболка “АзовСталь”](https://uacomix.com/wp-content/uploads/2023/10/t-shirts-uacomix-azovstal-1-scaled-1.jpg)
 
-## Комікси/Книги
+### Джинси HUTSULSHCHYNA **Авіація Галичини**
 
+3 200 https://www.aviatsiyahalychyny.com/men/jeans/hutsulshchyna/
+
+![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3238.jpg)
+
+![|350](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3396.jpg)
+
+### ✓ Сорочка-піджак MISSION MARIUPOL **Авіація Галичини**
+
+- 3 100 грн https://www.aviatsiyahalychyny.com/men/shirts/mission-mariupol/?attribute_pa_color=black&attribute_pa_size=m
+
+![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2022/10/848a4168_optimized-scaled.jpg)
+
+## Комікси/Книги
+### Володар Перснів. Частини 1-3 (3 КНИГИ)
+
+- `1 153.70 грн` https://astrolabium.com.ua/volodar_persniv_chastyny_1-3_3_knygy-tolkin_dzhon_ronald_ruel.html
+
+![](https://astrolabium.com.ua/media/e5876a4b.jpg?w=492)
 ### Diablo III. Книга Каина
 
 > [!warning] немає в продажу
@@ -80,31 +97,21 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 
 ### Максим Оса
 
+> [!warning] немає в продажу
+
 300 грн https://cosmic.com.ua/maksim_osa/
 
 ### Характерник #0
 
+> [!warning] немає в продажу
+
 70 грн https://cosmic.com.ua/kharakternik_0/
 
 ### Курган
+
+> [!warning] немає в продажу
+
 250 грн https://cosmic.com.ua/kurgan/
-
-## Одяг
-
-### **Авіація Галичини** ДЖИНСИ HUTSULSHCHYNA
-
-3 200 https://www.aviatsiyahalychyny.com/men/jeans/hutsulshchyna/
-
-![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3238.jpg)
-
-![|350](https://www.aviatsiyahalychyny.com/wp-content/uploads/2023/10/848A3396.jpg)
-
-### **Авіація Галичини** Чоловіча сорочка-піджак MISSION MARIUPOL
-
-- 3 100 грн https://www.aviatsiyahalychyny.com/men/shirts/mission-mariupol/?attribute_pa_color=black&attribute_pa_size=m
-
-![](https://www.aviatsiyahalychyny.com/wp-content/uploads/2022/10/848a4168_optimized-scaled.jpg)
-
 
 ## Годиники
 
@@ -121,21 +128,21 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 
 
 ## Інструменти
-### Knipex Cobra 87 03 125
+### Кліщі **Knipex** Cobra 87 03 125
 
 1 142 грн https://www.knipex.com.ua/shop/klishhi-trubni-ta-santehnichni/knipex-cobra-uk/cobra-visokotehnologichni-santehnichni-klishhi-knipex-87-03-125?lang=uk
 
 ![](https://www.knipex.com.ua/wp-content/uploads/2018/10/8703125.jpg)
 
-|  |  |
-| ---- | ---- |
-| Кліщі | хромовані |
-| параметри для труб дюйми (діаметр) | 1 Ø в дюймах |
-| Діапазон для гайок, розмір під ключ | 27 mm |
-| Параметри для труб (діаметр) | 25 Ø mm |
-| Довжина | 125 mm |
-| Вага нетто | 85 g |
-### Knipex Cobra XS 87 00 100
+|                                     |              |
+| ----------------------------------- | ------------ |
+| Кліщі                               | хромовані    |
+| параметри для труб дюйми (діаметр)  | 1 Ø в дюймах |
+| Діапазон для гайок, розмір під ключ | 27 mm        |
+| Параметри для труб (діаметр)        | 25 Ø mm      |
+| Довжина                             | 125 mm       |
+| Вага нетто                          | 85 g         |
+### Кліщі **Knipex** Cobra XS 87 00 100
 
 926 https://www.knipex.com.ua/shop/klishhi-trubni-ta-santehnichni/knipex-cobra-uk/santehnichni-mini-klishhi-cobra-xs-knipex-87-00-100?lang=uk
 
@@ -150,17 +157,12 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 | Параметры для труб (диаметр) | 28 Ø mm |
 | Вес нетто | 63 g |
 | Длина | 100 mm |
-### Мультитул **Leatherman** SIGNAL GREEN TOPO
-
-- `7 200 грн` https://ibis.net.ua/ua/products/details/multitul-leatherman-832692-signal-green-topo-sintetchehol/
-
-![](https://ibis.net.ua/static/products_pictures/b/7/8/multitul-leatherman-832692-signal-green-topo.webp)
-
+ 
 ### Ніж **Spyderco** Delica4 Flat Ground Green
 
 4 320 https://ibis.net.ua/ua/products/details/nozh-spyderco-delica4-flat-ground-green/
 
-![](https://ibis.net.ua/static/products_pictures/870134.jpg)
+![](https://ibis.net.ua/static/products_pictures/6/e/5/nozh-spyderco-delica4-flat-ground-green.webp)
 
 ### Ніж **Spyderco** Endura4 Flat Ground
 4 840 https://ibis.net.ua/ua/products/details/nozh-spyderco-endura4-flat-ground-siniy/
@@ -170,9 +172,52 @@ https://malopus.com.ua/artbooks/artbuk-ukrayinskij-bestiarij
 ### Ніж **Benchmade** 535 Bugout
 
 9 840 грн https://x-gear.com.ua/product/nozh-benchmade-535fe-05-bugout-crater-blue-grivory
+9 840 грн https://ibis.net.ua/ua/products/details/nizh-benchmade-535fe-05-bugout-crater-blue
 
 ![](https://x-gear.com.ua/image/cache/webp/catalog/easyphoto/25885/nozh-benchmade-945-mini-osborne-arctic-storm-fatcarbon-945-221-2-600x600.webp)
 
-# **Авіація Галичини** значок MISSION MARIUPOL
+
+
+# Посуд
+
+## Набір порцелянових тарілок Laura Ashley BLUEPRINT, діаметр 26 см, 4 шт
+
+2770 грн https://promenu.ua/nabor-tarelok-26-sm-4-sht-55800205
+
+![](https://promenu.ua/product_files/images/product-nabor-tarelok-26-sm-4-sht_f73f0f1e1436793f40f0d70221855cac.webp)
+
+## Набір тарілок порцелянових Laura Ashley BLUEPRINT, діаметр 20 см, 4 шт
+1 980 грн https://promenu.ua/nabor-tarelok-20-sm-4-sht-55800206
+
+![](https://promenu.ua/product_files/images/product-nabor-tarelok-20-sm-4-sht_76eaa93c6e705ac767e002b53293a02e.webp)
+
+## Тарілки глибокі порцелянові Laura Ashley BLUEPRINT, 22 см
+- [ ] 595 білий в синю дрібну квітку (178269) https://promenu.ua/tarelka-glubokaya-22-sm-55800031
+- [ ] 595 білий з синіми трояндами (178267) https://promenu.ua/tarelka-glubokaya-22-sm-55800029
+- [x] 595 білий в синю смужку (178270) https://promenu.ua/tarelka-glubokaya-22-sm-55800032
+- [ ] 595 синій в дрібну квітку (178268) https://promenu.ua/tarelka-glubokaya-22-sm-55800030
+
+## Тарілки глибока Laura Ashley BLUEPRINT, діаметр 27,5 см
+- [ ] 740 синій (182771) https://promenu.ua/tarelka-glubokaya-27-5-sm-55800213
+- [ ] 740 синій (182769) https://promenu.ua/tarelka-glubokaya-27-5-sm-55800212
+
+## Тарілки маленькі порцелянови Laura Ashley BLUEPRINT, 12 см
+- [ ] 280 білий в синю дрібну квітку (178274) https://promenu.ua/tarelka-12-sm-55800035
+- [ ] 280 синій в дрібну квітку (178273) https://promenu.ua/tarelka-12-sm-55800034
+- [ ] 280 білий з синіми трояндами (178271) https://promenu.ua/tarelka-12-sm-55800033
+
+# Різне
+## ✓ Значок MISSION MARIUPOL **Авіація Галичини**
 
 200 https://www.aviatsiyahalychyny.com/accessories/pins/mission-mariupol/
+
+## Патч-нашивка Дніпропетровщина
+
+250 грн  https://dodosocks.com/shop/patch-dnipro/
+
+![](https://dodosocks.com/cdn-cgi/image/width=600,height=600,fit=crop,quality=80,format=auto,metadata=none/wp-content/uploads/2023/11/patch_dnipro_01-2.jpg)
+
+## Full Mechanics Gundam Forbidden, 1/100 (Bandai) збірна модель
+3 641 https://hobbysamurai.com/full-mechanics-gundam-forbidden-1-100-bandai-zbirna-model-handam-anime/
+
+![](https://hobbysamurai.com/content/images/22/1200x1200l80mc0/59031846791175.webp)
